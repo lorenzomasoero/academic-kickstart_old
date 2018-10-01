@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Bayesian methods",
+    "Bayesian nonparametrics",
+    "Network data"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "Massachusetts Institute of Technology"
+  year = 2016-current
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Masters in Statstics and Applied  Math"
+  institution = "Collegio Carlo Alberto"
+  year = 2016
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Economics"
+  institution = "Università degli studi di Torino"
+  year = 2014
  
 +++
 
-# Biography
+# About me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student at MIT in the department of Electrical Engineering and Computer Science working in CSAIL under the supervision of 
+Professor Tamara Broderick in the Machine Learning Group. Before joining MIT for my graduate studies, I was a student at the Collegio Carlo Alberto and at the University of Torino, where I completed my master's thesis under the supervision of Igor Prünster and Pierpaolo de Blasi.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My current research interests are in machine learning, with an emphasis on Bayesian nonparametric models and network data. 
+Here you can find a .pdf version of my curriculum vitae.
+You can contact me via email at lom at mit dot edu.
+
